@@ -2,7 +2,7 @@
 
 Welcome to my personal data science portfolio, built using GitHub Pages and HTML/CSS. This site showcases my key projects in machine learning, data analysis, and visualization.
 
-🔗 **Live Website:** [[https://ishaneja.github.io](https://ishaneja.github.io)
+🔗 **Live Website:** [https://ishaneja.github.io](https://ishaneja.github.io)
 
 ---
 
