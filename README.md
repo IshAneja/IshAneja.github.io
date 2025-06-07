@@ -9,12 +9,12 @@ Welcome to my personal data science portfolio, built using GitHub Pages and HTML
 ## 🧠 Featured Projects
 
 ### 🏈 NFL Game Predictor
-Used historical NFL data to identify factors influencing team success. Built a classification model with 75% accuracy in predicting weekly winners.  
+Used historical NFL data to identify factors influencing team success. Built a classification model with 70% accuracy in predicting weekly winners.  
 **Repo:** [NFL Predictor](https://github.com/IshAneja/NFL_Game_Prediction)
 
-### 📊 COVID-19 Data Dashboard
-Performed exploratory data analysis on global COVID-19 datasets. Built an interactive dashboard using Tableau to visualize key trends.  
-**Repo:** [COVID Dashboard](https://github.com/yourusername/covid-dashboard)
+### 📊 Nursting Home Staffing EDA
+Performed exploratory data analysis on nursing home staffing. Created visualizations to understand staffing trends and suggestions to improve staffing rating at facilities.  
+**Repo:** [Nursing Home Staffing](https://github.com/IshAneja/Nursing_Home_Staffing_EDA)
 
 ### 📦 Customer Churn Prediction
 Developed a logistic regression model to predict churn and uncover retention opportunities. Focused on feature engineering and business impact.  
