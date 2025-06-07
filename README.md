@@ -12,7 +12,7 @@ Welcome to my personal data science portfolio, built using GitHub Pages and HTML
 Used historical NFL data to identify factors influencing team success. Built a classification model with 70% accuracy in predicting weekly winners.  
 **Repo:** [NFL Predictor](https://github.com/IshAneja/NFL_Game_Prediction)
 
-### 📊 Nursting Home Staffing EDA
+### 🏥 Nursting Home Staffing EDA
 Performed exploratory data analysis on nursing home staffing. Created visualizations to understand staffing trends and suggestions to improve staffing rating at facilities.  
 **Repo:** [Nursing Home Staffing](https://github.com/IshAneja/Nursing_Home_Staffing_EDA)
 
