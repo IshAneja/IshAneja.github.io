@@ -16,9 +16,9 @@ Used historical NFL data to identify factors influencing team success. Built a c
 Performed exploratory data analysis on nursing home staffing. Created visualizations to understand staffing trends and suggestions to improve staffing rating at facilities.  
 **Repo:** [Nursing Home Staffing](https://github.com/IshAneja/Nursing_Home_Staffing_EDA)
 
-### 📦 Customer Churn Prediction
-Developed a logistic regression model to predict churn and uncover retention opportunities. Focused on feature engineering and business impact.  
-**Repo:** [Churn Prediction](https://github.com/yourusername/churn-prediction)
+### 📦 ETF Price ETL Pipeline
+Developed an ETL (Extract, Transform and Load) Pipeline that collects daily ETF price data and processes and cleans the data and stores in a local SQLite database 
+**Repo:** [ETF Price ETL Pipeline](https://github.com/IshAneja/ETF_ETL_Pipeline)
 
 ---
 
